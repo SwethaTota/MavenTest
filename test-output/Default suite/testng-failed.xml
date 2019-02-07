@@ -5,7 +5,7 @@
     <classes>
       <class name="com.qa.tests.sampleTest">
         <methods>
-          <include name="mul"/>
+          <include name="sum"/>
         </methods>
       </class> <!-- com.qa.tests.sampleTest -->
     </classes>
